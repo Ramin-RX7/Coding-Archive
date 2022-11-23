@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>List of Programs</title>
+</head>
+<body>
+
+    <h2>List of Programs:</h2>
+    <ul>
+    {% for prog in dic.keys() %}
+        <li style="margin-left: 10%;">
+            <h3>
+                <a href="{{ dic[prog] }}">{{ prog }}</a>
+            </h3>
+        </li>
+    {% endfor %}
+    </ul>
+</body>
+</html>

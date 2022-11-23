@@ -1,0 +1,156 @@
+{
+  "files.autoSaveDelay": 1,
+    "editor.rulers": [{"column": 100}],
+    "files.maxMemoryForLargeFilesMB": 9000,
+    "extensions.autoUpdate": false,
+    
+    "git.path": "D:/Program Files/Git/bin/git.exe",
+    "git.enableSmartCommit": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.confirmSync": false,
+    
+    "[python]": {
+    
+    "editor.rulers": [
+      {
+        "column": 80
+      },
+      {
+        "column": 100,
+        "color": "#8f00003f"
+      }
+    ]
+  },
+
+    //"path-autocomplete.useBackslash": true,
+
+    "autoDocstring.guessTypes": true,
+    //"autoDocstring.includeExtendedSummary": true,
+    //"autoDocstring.includeName": true,
+    "autoDocstring.docstringFormat": "numpy",
+
+  
+
+
+
+    
+    "better-comments.tags": [
+      {
+        "tag": "< ",
+        "color": "#98C379",
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false
+      },
+      {
+        "tag": "] ",
+        "italic": true
+      },
+
+
+      {
+        "tag": "> ",
+        "color": "#3498DB",
+        "bold" : true
+        
+      },
+      {
+        "tag": "✓ ",
+        "strikethrough": true,
+        "italic": true,
+        "color":"#6A9955"
+      },
+      {
+        "tag": "X ",
+        "italic": true,
+        "color":"#FF2D00"
+      },
+      {
+        "tag": "?",
+        "color": "#6A9955",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+
+      {
+        "tag": " TODO",
+        "color":"#FF8C00",
+        "bold": true
+      },
+      {
+        "tag": " NOTE",
+        "color":"#3498DB",
+        "bold": true
+      },
+      {
+        "tag": " BUG",
+        "color":"#FF2D00",
+        "bold": true
+      }
+      
+
+    ],
+
+
+    "bracket-pair-colorizer-2.showBracketsInGutter":true,
+    //"bracket-pair-colorizer-2.highlightActiveScope" :true,
+    "bracket-pair-colorizer-2.showBracketsInRuler":true,
+    "bracket-pair-colorizer-2.scopeLineCSS": [
+      "borderStyle : solid",
+      "borderWidth : 1px",
+      "borderColor : {color}",
+      "opacity: 0.25"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.cursorBlinking": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+      "default": "right",
+      "jupyter-notebook": "left"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "icon": "terminal-powershell"
+      },
+      "Command Prompt": {
+        "path": [
+          "${env:windir}\\Sysnative\\cmd.exe",
+          "${env:windir}\\System32\\cmd.exe"
+        ],
+        "args": [],
+        "icon": "terminal-cmd"
+      },
+      "Git Bash": {
+        "source": "Git Bash"
+      },
+      "Windows PowerShell": {
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      }
+    },
+    "python.terminal.activateEnvironment": false,
+    "workbench.editor.enablePreview": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "files.autoSave": "onFocusChange",
+    "C_Cpp.codeAnalysis.updateDelay": 0,
+    "smartsemicolon.autoLineChange": true,
+    "code-runner.runInTerminal": true,
+    "explorer.compactFolders": false,
+    "editor.tabCompletion": "on",
+    "python.linting.mypyEnabled": true,
+
+
+
+}

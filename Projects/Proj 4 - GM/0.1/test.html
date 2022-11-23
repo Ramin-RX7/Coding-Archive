@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script>
+setTimeout(5000)
+
+window.onload = function () {
+
+var dps = [];
+var chart = new CanvasJS.Chart("chartContainer", {
+    exportEnabled: true,
+    title :{
+        text: "Dynamic Spline Chart",
+    },
+    axisY: {
+        includeZero: false
+    },
+    data: [{
+        type: "spline",
+        markerSize: 0,
+        dataPoints: dps,
+    }]
+});
+
+var xVal = 0;
+var yVal = 0;
+var updateInterval = 100;
+var dataLength = 180; // number of dataPoints visible at any point
+
+var updateChart = function (count) {
+    count = count || 1;
+    // count is number of times loop runs to generate random dataPoints.    Math.random() *(2)
+    for (var j = 0; j < count; j++) {
+        yVal = yVal + Math.round(0 + Math.random() * 0.55);
+        dps.push({
+            x: xVal,
+            y: yVal
+        });
+        xVal++;
+    }
+    if (dps.length > dataLength) {
+        dps.shift();
+    }
+    chart.render();
+};
+
+updateChart(dataLength);
+setInterval(function(){ updateChart() }, updateInterval);
+
+}
+
+
+
+</script>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="js.js"></script>
+</body>
+</html>

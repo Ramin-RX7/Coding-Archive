@@ -1,0 +1,22 @@
+1- Print File List:
+	This switch will save all of files names in a .txt file  in: "HVF\PC NAME\List of Files\"
+
+	When you choose this, You have to type address of where you want it's files names.
+	ex: D:\Programs\KMPlayer - C:\Users\ALI\
+
+	For being easier to print file list of DRIVES, you can just type drive letter.
+	ex: c - D
+
+2- Get Device Information:
+	This switch will save SYSTEM INFO in a .txt file in: "HVF\PC NAME\System Information\"
+	  SYSTEM INFORMATION Like: System - Device name - System Main Version - System Full Version - GPU Company - System Type
+	
+	Note:
+	  "node" is "Device name"  -  "release" is "System Main version"  -  "machine" is "AMD64"  -  "processor" is "System type"
+
+3- Copy Files:
+	This switch will copy all of files of a directory except directory's sub-folders.
+	Note that you hace to a folder address, then program copy all of folder's files in: "HVF\PC NAME\Copied Files\"
+	Program accepts file address but it doesn't copy anything.
+	ex: E:\Photos\ - C:\RIP
+

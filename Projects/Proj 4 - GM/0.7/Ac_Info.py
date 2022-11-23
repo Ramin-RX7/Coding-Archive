@@ -1,0 +1,13 @@
+Nickname= 'RaminRX7'
+Credit= 196500.0
+Crash_Wins= 0
+Crash_Loses= 29
+BJ_Wins= 0
+BJ_Loses= 0
+RPS_Wins= 0
+RPS_Loses= 0
+RatioX_Wins= 0
+RatioX_Loses= 0
+DR_Wins= 0
+DR_Loses= 0
+RmnnVluCshot= -270500

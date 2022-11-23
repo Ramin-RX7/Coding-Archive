@@ -1,0 +1,1 @@
+uname_result(system='Windows', node='DESKTOP-8C02REI', release='10', version='10.0.18362', machine='AMD64', processor='Intel64 Family 6 Model 58 Stepping 9, GenuineIntel')

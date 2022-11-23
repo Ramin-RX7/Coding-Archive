@@ -1,0 +1,114 @@
+{
+"Account": {
+    "Usernames": [
+        "RX",
+        "RX7"
+    ],
+    "Password": "dc491cdb2f66346d6d06cd76da18182c",
+    "last_active": 1500
+},
+"Cryptocurrency": {
+    "Currencies": {
+        "Cardano": {
+            "Name": "Cardano",
+            "Symbol": "ADA",
+            "Transactions": [
+                {
+                    "ID": 3,
+                    "Type": "Buy",
+                    "Amount": 13.24,
+                    "Date": "18/07/2021",
+                    "USD Amount": 16,
+                    "USD Price": 1.18,
+                    "Rial Amount": 300000,
+                    "Rial Price": 1643,
+                    "USDT": 25000
+                },
+                {
+                    "ID"  : 4,
+                    "Type": "Sell",
+                    "Amount": 8.13,
+                    "Date": "21/07/2021",
+                    "USD Amount": 2.45,
+                    "USD Price": 20.0,
+                    "Rial Amount": 67750.0,
+                    "Rial Price": 547000.0,
+                    "USDT": 27500
+                }
+            ]
+        },
+        "Tron": {
+            "Name": "Tron",
+            "Symbol": "TRX",
+            "Transactions": [
+                {
+                    "ID": 1,
+                    "Type": "Buy",
+                    "Amount": 183.35,
+                    "Date": "07/07/2021",
+                    "USD Amount": 12,
+                    "USD Price": 0.66,
+                    "Rial Amount": 400000,
+                    "Rial Price": 29390,
+                    "USDT": 25000
+                }
+            ]
+        },
+        "EOS": {
+            "Name": "EOS",
+            "Symbol": "EOS",
+            "Transactions": [
+                {
+                    "ID": 2,
+                    "Type": "Buy",
+                    "Amount": 4.95,
+                    "Date": "18/07/2021",
+                    "USD Amount": 18.25,
+                    "USD Price": 3.65,
+                    "Rial Amount": 450000,
+                    "Rial Price": 90838,
+                    "USDT": 25000
+                }
+            ]
+        }
+    },
+    "Transactions": [
+        [
+            1,
+            "TRX",
+            "Buy",
+            "07/07/2021",
+            183.35,
+            300000
+        ],
+        [
+            2,
+            "EOS",
+            "Buy",
+            "18/07/2021",
+            4.95,
+            400000
+        ],
+        [
+            3,
+            "ADA",
+            "Buy",
+            "18/07/2021",
+            13.24,
+            400000
+        ],
+        [
+            4,
+            "ADA",
+            "Sell",
+            "21/07/2021",
+            8.13,
+            547000.0
+        ]
+    ],
+    "Dollar_Price": [
+        "22/08/2021",
+        27449
+    ]
+}
+}

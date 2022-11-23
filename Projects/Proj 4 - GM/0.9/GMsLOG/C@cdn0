@@ -1,0 +1,203 @@
+20000
+2020-01-04 12:47:56	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:19000	UsrRt: 2.0	OrgRt:1.3
+2020-01-04 12:48:44	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:18000	UsrRt: 1.33	OrgRt:1.31
+2020-01-04 12:48:56	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:17000	UsrRt: 2.0	OrgRt:1.49
+2020-01-04 12:49:17	Crsh	Win	Bet:6000	Gain: +3000	Crdt:20000	UsrRt: 1.5	OrgRt:12.32
+2020-01-04 12:52:52	Crsh	Win	Bet:1000	Gain: +1000	Crdt:22000	UsrRt: 2.0	OrgRt:2.0
+2020-01-04 12:55:42	Crsh	Win	Bet:1000	Gain: +1000	Crdt:22000	UsrRt: 2.0	OrgRt:4.38
+2020-01-04 12:56:21	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:21000	UsrRt: 2.0	OrgRt:1.22
+2020-01-04 13:24:47	FtBl	Main	Bet:10000	Income: 12500	Crdt:32500	UsrChs: 1	Result:Win
+2020-01-04 13:51:12	FtBl	Main	Bet:1000	Income: 2150	Crdt:10150	UsrChs: 1	Result:Win
+2020-01-04 14:31:45	FtBl	Main	Bet:4675	Income: 8648	Crdt:17798	UsrChs: 1	Result:Win
+2020-01-04 15:28:55	Crsh	Win	Bet:1000	Gain: +1000	Crdt:21000	UsrRt: 2.0	OrgRt:24.57
+2020-01-04 15:29:03	Crsh	Win	Bet:1000	Gain: +1000	Crdt:21000	UsrRt: 2.0	OrgRt:24.57
+2020-01-04 15:29:21	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:20000	UsrRt: 2.0	OrgRt:1.72
+2020-01-04 15:29:28	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:20000	UsrRt: 2.0	OrgRt:1.72
+2020-01-04 15:30:27	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:10000	UsrRt: 1.33	OrgRt:1.31
+2020-01-04 15:30:33	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:10000	UsrRt: 1.33	OrgRt:1.31
+2020-01-04 15:30:49	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:0	UsrRt: 2.0	OrgRt:1.32
+2020-01-04 15:31:34	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:19000	UsrRt: 1.5	OrgRt:1.2
+2020-01-04 15:31:58	Crsh	Win	Bet:2000	Gain: +1000	Crdt:20000	UsrRt: 1.5	OrgRt:12.76
+2020-01-04 15:33:35	Crsh	Win	Bet:1000	Gain: +330	Crdt:20330	UsrRt: 1.33	OrgRt:1.47
+2020-01-04 15:33:41	Crsh	Win	Bet:1000	Gain: +330	Crdt:20330	UsrRt: 1.33	OrgRt:1.47
+2020-01-04 15:57:37	RPS	Loose			-330	Crdt:20000	UsrChc:r  BtChc:p
+2020-01-04 15:58:07	RPS	Win			+1	Crdt:20001	UsrChc:p  BtChc:r
+2020-01-04 15:59:08	BJ	Win					+1	Crdt:20001	Usr: 3		Bt: 25
+2020-01-04 15:59:21	BJ	Win					+1	Crdt:20001	Usr: 3		Bt: 25
+2020-01-04 18:46:31	Crsh	Loose	Bet:1	Gain: -1	Crdt:20001	UsrRt: 10.0	OrgRt:1.23
+2020-01-04 19:34:41	FtBl	Main	Bet:10000	Income: 12500	Crdt:32500	UsrChs: 3	Result:Win
+2020-01-04 19:51:07	FtBl	Main	Bet:2500	Income: 5125	Crdt:27625	UsrChs: 3	Result:Win
+2020-01-04 19:53:45	FtBl	Main	Bet:5125	Income: -5125	Crdt:20000	UsrChs: 2	Result:Lose
+2020-01-04 21:34:19	FtBl	Main	Bet:10000	Income: -10000	Crdt:10000	UsrChs: 1	Result:Lose
+2020-01-04 22:51:21	FtBl	Main	Bet:4000	Income: -4000	Crdt:4000	UsrChs: 1	Result:Lose
+2020-01-04 22:51:55	RtX	Loose	Bet:1000	Gain: -40	Crdt:3960	Rt:0.96
+2020-01-04 22:52:00	RtX	Win	Bet:1000	Gain: +430	Crdt:4390	Rt:1.43
+2020-01-04 22:52:06	RtX	Win	Bet:1000	Gain: +250	Crdt:4640	Rt:1.25
+2020-01-04 22:52:11	RtX	Loose	Bet:1000	Gain: -510	Crdt:4130	Rt:0.49
+2020-01-04 22:52:17	RtX	Win	Bet:1000	Gain: +420	Crdt:4550	Rt:1.42
+2020-01-04 22:52:22	RtX	Win	Bet:1000	Gain: +300	Crdt:4850	Rt:1.3
+2020-01-04 22:52:28	RtX	Win	Bet:1000	Gain: +5740	Crdt:10590	Rt:6.74
+2020-01-04 22:52:34	RtX	Loose	Bet:10000	Gain: -7000	Crdt:3590	Rt:0.3
+2020-01-04 22:52:39	RtX	Loose	Bet:1000	Gain: -510	Crdt:3080	Rt:0.49
+2020-01-04 22:53:05	Crsh	Win	Bet:1000	Gain: +4000	Crdt:7080	UsrRt: 5.0	OrgRt:5.84
+2020-01-04 22:53:19	Crsh	Win	Bet:2000	Gain: +660	Crdt:7740	UsrRt: 1.33	OrgRt:3.49
+2020-01-04 22:53:33	Crsh	Win	Bet:3000	Gain: +990	Crdt:8730	UsrRt: 1.33	OrgRt:1.62
+2020-01-04 22:53:48	Crsh	Loose	Bet:2700	Gain: -2700	Crdt:6030	UsrRt: 1.33	OrgRt:1.09
+2020-01-04 22:54:01	Crsh	Win	Bet:5000	Gain: +2500	Crdt:8530	UsrRt: 1.5	OrgRt:4.41
+2020-01-04 22:54:23	Crsh	Loose	Bet:3000	Gain: -3000	Crdt:5530	UsrRt: 1.33	OrgRt:1.2
+2020-01-04 22:54:35	Crsh	Win	Bet:5530	Gain: +2765	Crdt:8295	UsrRt: 1.5	OrgRt:1.76
+2020-01-04 22:55:10	Crsh	Win	Bet:2295	Gain: +757	Crdt:9052	UsrRt: 1.33	OrgRt:1.59
+2020-01-04 22:55:23	Crsh	Win	Bet:3000	Gain: +990	Crdt:10042	UsrRt: 1.33	OrgRt:1.46
+2020-01-04 22:57:45	FtBl	Main	Bet:10000	Income: -10000	Crdt:42	UsrChs: 1	Result:Lose
+2020-01-04 23:02:10	FtBl	Main	Bet:10000	Income: -10000	Crdt:10000	UsrChs: 3	Result:Lose
+2020-01-04 23:47:40	FtBl	Main	Bet:10000	Income: -10000	Crdt:0	UsrChs: 1	Result:Lose
+2020-01-04 23:53:48	FtBl	Main	Bet:5000	Income: -5000	Crdt:15000	UsrChs: 1	Result:Lose
+2020-01-04 23:57:31	FtBl	Main	Bet:5000	Income: 7750	Crdt:22750	UsrChs: 3	Result:Win
+2020-01-05 00:01:36	FtBl	Main	Bet:7750	Income: -7750	Crdt:10000	UsrChs: 1	Result:Lose
+2020-01-05 00:05:08	FtBl	Main	Bet:1000	Income: 1850	Crdt:11850	UsrChs: 3	Result:Win
+2020-01-05 00:08:37	FtBl	Main	Bet:850	Income: -850	Crdt:10000	UsrChs: 3	Result:Lose
+2020-01-05 14:43:36	FtBl	Main	Bet:1000	Income: -1000	Crdt:9000	UsrChs: 3	Result:Lose
+2020-01-06 20:12:06	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:7000	UsrRt: 2.0	OrgRt:1.59
+2020-01-06 21:40:26	DR	Loose			-1000	Crdt:6000	UsrRll:6  BtRll:7
+2020-01-06 21:40:49	DR	Loose			-1000	Crdt:5000	UsrRll:3  BtRll:9
+2020-01-06 21:43:01	RPS	Win			+1000	Crdt:6000	UsrChc:r  BtChc:s
+2020-01-06 21:44:05	BJ	Loose				-1000	Crdt:6000	Usr: 5		Bt: 17
+2020-01-06 21:44:25	BJ	Win					+1000	Crdt:5000	Usr: 22		Bt: 23
+2020-01-06 21:44:48	RtX	Loose	Bet:1000	Gain: -590	Crdt:5410	Rt:0.41
+2020-01-06 21:45:19	RtX	Win	Bet:1000	Gain: +230	Crdt:5640	Rt:1.23
+2020-01-06 21:45:26	RtX	Loose	Bet:1000	Gain: -110	Crdt:5530	Rt:0.89
+2020-01-06 21:45:32	RtX	Win	Bet:1000	Gain: +250	Crdt:5780	Rt:1.25
+2020-01-06 21:45:43	RtX	Loose	Bet:1000	Gain: -430	Crdt:5350	Rt:0.57
+2020-01-06 21:45:51	RtX	Win	Bet:1000	Gain: +8720	Crdt:14070	Rt:9.72
+2020-01-06 21:46:18	RtX	Win	Bet:14070	Gain: +336976	Crdt:351046	Rt:24.95
+2020-01-06 21:46:42	RtX	Loose	Bet:351046	Gain: -136908	Crdt:214138	Rt:0.61
+2020-01-06 21:49:45	FtBl	Main	Bet:100000	Income: 135000	Crdt:349138	UsrChs: 1	Result:Win
+2020-01-06 21:51:16	Crsh	Loose	Bet:7000	Gain: -7000	Crdt:242138	UsrRt: 99.0	OrgRt:49.05
+2020-01-06 21:52:06	Crsh	Win	Bet:240000	Gain: +79200	Crdt:321338	UsrRt: 1.33	OrgRt:1.95
+2020-01-06 21:54:02	Crsh	Loose	Bet:321338	Gain: -321338	Crdt:0	UsrRt: 99.0	OrgRt:12.33
+2020-01-08 20:28:39	BJ	Loose				-1000	Crdt:20000	Usr: 2		Bt: 16
+2020-01-08 20:28:57	BJ	Win					+1000	Crdt:19000	Usr: 19		Bt: 17
+2020-01-08 20:31:15	BJ	Loose				-1000	Crdt:20000	Usr: 26		Bt: 19
+2020-01-10 17:33:04	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:18000	UsrRt: 2.0	OrgRt:1.94
+2020-01-10 17:33:19	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:17000	UsrRt: 2.0	OrgRt:1.44
+2020-01-10 17:34:58	Crsh	Win	Bet:1000	Gain: +1000	Crdt:18000	UsrRt: 2.0	OrgRt:7.23
+2020-01-10 17:35:28	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:17000	UsrRt: 2.0	OrgRt:1.88
+2020-01-14 21:51:46	RPS	Win			+1000	Crdt:18000	UsrChc:r  BtChc:s
+2020-01-14 21:52:34	RPS	Win			+1000	Crdt:19000	UsrChc:r  BtChc:s
+2020-01-14 22:24:22	FtBl	Main	Bet:1000	Income: 1350	Crdt:20350	UsrChs: 1	Result:Win
+2020-01-14 22:26:32	FtBl	Main	Bet:19350	Income: -19350	Crdt:0	UsrChs: 3	Result:Lose
+2020-01-14 22:39:25	FtBl	Main	Bet:10000	Income: 15500	Crdt:65500	UsrChs: 1	Result:Win
+2020-01-14 22:49:13	FtBl	Main	Bet:15500	Income: -15500	Crdt:40000	UsrChs: 1	Result:Lose
+2020-01-14 22:52:05	FtBl	Main	Bet:10000	Income: 15500	Crdt:55500	UsrChs: 3	Result:Win
+2020-01-21 01:18:47	BJ	Loose				-6000	Crdt:26000	Usr: 22		Bt: 17
+2020-01-21 01:25:04	BJ	Loose				-1000	Crdt:20000	Usr: 17		Bt: 21
+2020-01-21 01:25:24	BJ	Loose				-7000	Crdt:19000	Usr: 17		Bt: 20
+2020-01-21 01:25:49	BJ	Loose				-12000	Crdt:12000	Usr: 150		Bt: 23
+2020-01-21 01:27:01	BJ	Loose				-0	Crdt:100000	Usr: 22		Bt: 17
+2020-01-21 01:28:25	BJ	Win					+10000	Crdt:100000	Usr: 20		Bt: 17
+2020-01-21 01:28:39	BJ	Win					+0	Crdt:110000	Usr: 20		Bt: 16
+2020-01-21 01:33:16	Crsh	Win	Bet:0	Gain: +0	Crdt:110000	UsrRt: 2.0	OrgRt:61.44
+2020-01-21 01:35:31	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:100000	UsrRt: 5.0	OrgRt:1.11
+2020-01-21 01:35:41	Crsh	Loose	Bet:0	Gain: -0	Crdt:100000	UsrRt: 5.0	OrgRt:1
+2020-01-21 01:42:41	Crsh	Win	Bet:10000	Gain: +3300	Crdt:103300	UsrRt: 1.33	OrgRt:1.46
+2020-01-21 21:17:26	Crsh	Loose	Bet:3300	Gain: -3300	Crdt:100000	UsrRt: 1.33	OrgRt:1
+2020-01-21 21:17:47	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:90000	UsrRt: 1.33	OrgRt:1.03
+2020-01-21 21:18:47	Crsh	Loose	Bet:20000	Gain: -20000	Crdt:70000	UsrRt: 1.5	OrgRt:1.48
+2020-01-21 21:19:08	Crsh	Loose	Bet:60000	Gain: -60000	Crdt:10000	UsrRt: 1.5	OrgRt:1.3
+2020-01-21 21:19:53	Crsh	Win	Bet:10000	Gain: +5000	Crdt:105000	UsrRt: 1.5	OrgRt:1.53
+2020-01-21 21:21:42	Crsh	Win	Bet:5000	Gain: +1650	Crdt:106650	UsrRt: 1.33	OrgRt:1.64
+2020-01-21 21:22:33	Crsh	Win	Bet:6650	Gain: +2194	Crdt:108844	UsrRt: 1.33	OrgRt:48.04
+2020-01-21 21:26:05	Crsh	Win	Bet:8844	Gain: +2918	Crdt:111762	UsrRt: 1.33	OrgRt:1.94
+2020-01-21 21:27:01	Crsh	Loose	Bet:11762	Gain: -11762	Crdt:100000	UsrRt: 1.2	OrgRt:1.06
+2020-01-21 22:11:54	RPS	Loose			-1000	Crdt:99000	UsrChc:r  BtChc:p
+2020-01-21 22:12:33	RPS	Loose			-0	Crdt:99000	UsrChc:r  BtChc:p
+2020-01-21 22:14:25	RPS	Loose			-0	Crdt:99000	UsrChc:r  BtChc:p
+2020-01-21 22:19:19	RPS	Win			+1000	Crdt:100000	UsrChc:Rock  BtChc:Scissors
+2020-01-22 00:17:24	BJ	Loose				-1000	Crdt:20000	Usr: 20		Bt: 21
+2020-01-22 00:17:38	BJ	Loose				-1000	Crdt:19000	Usr: 47		Bt: 18
+2020-01-22 00:19:14	BJ	Win					+1000	Crdt:18000	Usr: 19		Bt: 23
+2020-01-22 00:19:39	BJ	Win					+1000	Crdt:19000	Usr: 20		Bt: 17
+2020-01-22 00:20:41	DR	Win			+1000	Crdt:21000	UsrRll:7  BtRll:3
+2020-01-22 00:21:19	DR	Win			+1000	Crdt:22000	UsrRll:9  BtRll:3
+2020-01-22 00:22:24	DR	Loose			-1000	Crdt:21000	UsrRll:3  BtRll:4
+2020-01-22 00:26:49	BJ	Loose				-1000	Crdt:21000	Usr: 26		Bt: 22
+2020-01-22 00:28:21	BJ	Win					+1000	Crdt:20000	Usr: 21		Bt: 16
+2020-01-22 00:29:30	BJ	Win					+1000	Crdt:21000	Usr: 18		Bt: 25
+2020-01-22 00:29:52	BJ	Loose				-1000	Crdt:22000	Usr: 23		Bt: 22
+2020-01-22 00:50:02	DR	Win			+1000	Crdt:22000	UsrRll:9  BtRll:8
+2020-01-22 00:50:58	DR	Loose			-1000	Crdt:21000	UsrRll:4  BtRll:6
+2020-01-22 00:55:34	Crsh	Win	Bet:1000	Gain: +330	Crdt:21330	UsrRt: 1.33	OrgRt:1.64
+2020-01-22 00:55:41	Crsh	Win	Bet:1000	Gain: +330	Crdt:21330	UsrRt: 1.33	OrgRt:1.64
+2020-01-22 00:57:33	Crsh	Win	Bet:1330	Gain: +438	Crdt:21768	UsrRt: 1.33	OrgRt:1.68
+2020-01-22 00:57:39	Crsh	Win	Bet:1330	Gain: +438	Crdt:21768	UsrRt: 1.33	OrgRt:1.68
+2020-01-22 00:58:11	Crsh	Win	Bet:1768	Gain: +583	Crdt:22351	UsrRt: 1.33	OrgRt:10.08
+2020-01-22 00:59:09	Crsh	Loose	Bet:22351	Gain: -22351	Crdt:0	UsrRt: 1.33	OrgRt:1.17
+2020-01-22 01:00:10	Crsh	Win	Bet:2000	Gain: +660	Crdt:22660	UsrRt: 1.33	OrgRt:1.33
+2020-01-22 01:03:28	Crsh	Win	Bet:2660	Gain: +877	Crdt:23537	UsrRt: 1.33	OrgRt:1.74
+2020-01-22 18:14:19	Crsh	Loose	Bet:3537	Gain: -3537	Crdt:20000	UsrRt: 1.33	OrgRt:1.17
+2020-01-22 18:14:57	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:10000	UsrRt: 1.5	OrgRt:1.06
+2020-01-22 18:15:31	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:0	UsrRt: 2.0	OrgRt:1.11
+2020-01-22 18:20:22	FtBl	Main	Bet:10000	Income: -10000	Crdt:10000	UsrChs: 3	Result:Lose
+2020-01-22 18:21:51	Crsh	Win	Bet:1000000000000000000000000000	Gain: +330000000000000199548207104	Crdt:1330000000000000199548207104	UsrRt: 1.33	OrgRt:1.74
+2020-01-22 18:24:19	Crsh	Loose	Bet:20000	Gain: -20000	Crdt:0	UsrRt: 88.0	OrgRt:1.28
+2020-01-22 18:25:22	Crsh	Loose	Bet:2000	Gain: -2000	Crdt:18000	UsrRt: 1.33	OrgRt:1.07
+2020-01-22 18:25:49	Crsh	Win	Bet:4000	Gain: +2000	Crdt:20000	UsrRt: 1.5	OrgRt:1.6
+2020-01-22 18:26:41	Crsh	Win	Bet:5000	Gain: +1650	Crdt:21650	UsrRt: 1.33	OrgRt:54.87
+2020-01-22 18:27:11	Crsh	Win	Bet:21650	Gain: +216	Crdt:21866	UsrRt: 1.01	OrgRt:1.98
+2020-01-22 18:27:48	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:20866	UsrRt: 20.0	OrgRt:1.43
+2020-01-22 22:57:03	BJ	Win					+886	Crdt:20866	Usr: 20		Bt: 16
+2020-01-22 22:57:24	BJ	Win					+1752	Crdt:21752	Usr: 21		Bt: 24
+2020-01-22 23:02:13	BJ	Win					+100	Crdt:23504	Usr: 20		Bt: 23
+2020-01-22 23:02:30	BJ	Loose				-100	Crdt:23604	Usr: 25		Bt: 19
+2020-01-22 23:04:47	BJ	Loose				-100	Crdt:23504	Usr: 23		Bt: 22
+2020-01-22 23:05:58	BJ	Loose				-100	Crdt:23404	Usr: 39		Bt: 20
+2020-01-22 23:06:25	BJ	Loose				-100	Crdt:23304	Usr: 38		Bt: 17
+2020-01-22 23:16:09	BJ	Loose				-100	Crdt:23104	Usr: 37		Bt: 16
+2020-01-22 23:16:49	BJ	Loose				-100	Crdt:23004	Usr: 52		Bt: 21
+2020-01-22 23:23:33	BJ	Loose				-100	Crdt:22904	Usr: 34		Bt: 23
+2020-01-22 23:31:20	BJ	Loose				-100	Crdt:22804	Usr: 37		Bt: 22
+2020-01-22 23:31:32	BJ	Loose				-100	Crdt:22704	Usr: 19		Bt: 21
+2020-01-22 23:31:59	BJ	Loose				-100	Crdt:22604	Usr: 32		Bt: 20
+2020-01-22 23:32:40	BJ	Loose				-100	Crdt:22504	Usr: 35		Bt: 24
+2020-01-22 23:33:27	BJ	Loose				-100	Crdt:22404	Usr: 37		Bt: 16
+2020-01-22 23:33:56	BJ	Loose				-100	Crdt:22304	Usr: 45		Bt: 20
+2020-01-22 23:39:38	RPS	Loose			-4	Crdt:22200	UsrChc:Rock  BtChc:Paper
+2020-01-22 23:40:27	RPS	Loose			-200	Crdt:22000	UsrChc:Rock  BtChc:Paper
+2020-01-22 23:43:31	RPS	Win			+100	Crdt:22100	UsrChc:Rock  BtChc:Scissors
+2020-01-22 23:43:56	RPS	Loose			-100	Crdt:22000	UsrChc:Rock  BtChc:Paper
+2020-01-22 23:50:32	RPS	Loose			-100	Crdt:21900	UsrChc:Rock  BtChc:Paper
+2020-01-22 23:50:45	RPS	Loose			-100	Crdt:21800	UsrChc:Rock  BtChc:Paper
+2020-01-22 23:52:22	RPS	Win			+100	Crdt:21900	UsrChc:Rock  BtChc:Scissors
+2020-01-22 23:53:16	RPS	Loose			-100	Crdt:21800	UsrChc:Rock  BtChc:Paper
+2020-01-22 23:54:06	RPS	Win			+100	Crdt:21900	UsrChc:Rock  BtChc:Scissors
+2020-01-23 00:35:38	RPS	Loose			-100	Crdt:21700	UsrChc:Paper  BtChc:Scissors
+2020-01-26 00:41:04	BJ	Loose				-1000	Crdt:20000	Usr: 24		Bt: 16
+2020-01-26 00:44:28	BJ	Win					+1000	Crdt:19000	Usr: 20		Bt: 23
+2020-01-26 00:44:51	BJ	Loose				-1000	Crdt:20000	Usr: 38		Bt: 21
+2020-01-26 00:45:11	BJ	Win					+1000	Crdt:19000	Usr: 19		Bt: 18
+2020-01-26 00:45:47	Crsh	Win	Bet:1000	Gain: +330	Crdt:20330	UsrRt: 1.33	OrgRt:1.88
+2020-01-26 00:46:25	Crsh	Win	Bet:1000	Gain: +330	Crdt:20660	UsrRt: 1.33	OrgRt:1.49
+2020-01-26 00:47:07	Crsh	Loose	Bet:1000	Gain: -1000	Crdt:19660	UsrRt: 1.34	OrgRt:1.09
+2020-01-26 00:47:40	Crsh	Win	Bet:2000	Gain: +500	Crdt:20160	UsrRt: 1.25	OrgRt:1.71
+2020-01-26 00:48:12	Crsh	Loose	Bet:160	Gain: -160	Crdt:20000	UsrRt: 10.0	OrgRt:7.19
+2020-01-26 00:48:51	DR	Win			+1000	Crdt:21000	UsrRll:5  BtRll:4
+2020-01-26 00:49:10	DR	Win			+1000	Crdt:22000	UsrRll:7  BtRll:5
+2020-01-26 00:50:21	Crsh	Win	Bet:1000	Gain: +330	Crdt:22330	UsrRt: 1.33	OrgRt:1.95
+2020-01-26 00:51:41	RPS	Win			+2330	Crdt:24660	UsrChc:Rock  BtChc:Scissors
+2020-01-26 00:54:32	FtBl	Main	Bet:4660	Income: -4660	Crdt:20000	UsrChs: 1	Result:Lose
+2020-06-10 02:27:21	BJ	Win					+1000	Crdt:20000	Usr: 19		Bt: 26
+2020-06-10 02:27:55	Crsh	Win	Bet:5000	Gain: +1650	Crdt:22650	UsrRt: 1.33	OrgRt:11.29
+2020-06-10 02:28:16	Crsh	Loose	Bet:2650	Gain: -2650	Crdt:20000	UsrRt: 5.0	OrgRt:1.76
+2020-06-10 02:28:36	DR	Win			+1000	Crdt:21000	UsrRll:9  BtRll:5
+2020-06-10 02:30:44	RPS	Loose			-5000	Crdt:16000	UsrChc:Rock  BtChc:Paper
+2020-09-23 15:14:23	BJ	Loose				-1000	Crdt:16000	Usr: 17		Bt: 21
+2020-09-23 15:14:51	BJ	Loose				-5000	Crdt:15000	Usr: 23		Bt: 16
+2020-09-23 15:15:14	Crsh	Win	Bet:1000	Gain: +330	Crdt:10330	UsrRt: 1.33	OrgRt:1.68
+2020-09-23 15:15:35	Crsh	Win	Bet:5000	Gain: +5000	Crdt:15330	UsrRt: 2.0	OrgRt:5.32
+2020-09-23 15:16:06	DR	Win			+330	Crdt:15660	UsrRll:7  BtRll:4
+2020-09-23 15:18:52	FtBl	Main	Bet:10000	Income: 17500	Crdt:33160	UsrChs: 1	Result:Win
+2021-08-27 03:38:57	Crsh	Win	Bet:5000	Gain: +2500	Crdt:25660	UsrRt: 1.5	OrgRt:26.13
+2021-08-27 03:39:16	Crsh	Loose	Bet:10000	Gain: -10000	Crdt:15660	UsrRt: 20.0	OrgRt:1.96
+2021-08-27 03:41:49	FtBl	Main	Bet:15000	Income: 18750	Crdt:34410	UsrChs: 3	Result:Win
+2021-08-27 03:45:05	RPS	Loose			-5000	Crdt:14410	UsrChc:Rock  BtChc:Paper
+2021-08-27 03:45:48	DR	Win			+5000	Crdt:19410	UsrRll:8  BtRll:6

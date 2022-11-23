@@ -1,0 +1,47 @@
+{
+
+"Phones":{
+    "X"   : "Samsung Galaxy A22(5G)",
+    "R"   : "Samsung Galaxy J7",
+
+    "B"   : "Samsung Galaxy (Model: J2/Prime(Pro))",
+    "M"   : "Samsung Galaxy A10",
+    "G"   : "Samsung Galaxy (Model: A21/A21s)",
+    "G2"  : "Asus (Model:Unknown)",
+
+
+    "bk2k" : "Samsung Galaxy (Model: A31/A32/A50/A51/A70)",
+    "bk2h": "Samsung Galaxy A22",
+    "ul1" : "Samsung Galaxy Note 8",
+    
+    "at1k" : "Samsung Galaxy Note 10",
+    "at1h": "IPhone (Model: 4/5)",
+
+
+    "bk1k" : "Samsung Galaxy A3",
+    "bk1h": "Samsung Galaxy (Model: J5/J7)",
+
+    "ul2k": "IPhone 4",
+    "ul2h": "Samsung Galaxy (Model: A6/A7)",
+    "ul29": null,
+    "ul28": null,
+
+    "ul3k": null,
+    "ul3h": null,
+    "ul39": null,
+
+    "at2k": null,
+    "at2h": null,
+    "at29": null
+},
+"Groups":{
+    "A":    ["X","B","M","G"],
+    "A2":   ["R","G2"],
+    "bk2":  ["bk2","bk2h","ul1"],
+    "bk2m": ["bk2k","bk2h","ul1","at1" ,"at1h"],
+    "at1":  ["at1k","at1h"],
+    "bk1":  ["bk1k","bk1h"],
+    "bk1m": ["bk1k","bk1h","ul2k","ul2h","ul3k","ul3h","at2k","at2h"],
+    "bk1mm":["bk1k","bk1h","ul2k","ul2h","ul29","ul28","ul3k","ul3h","ul39","at2k","at2h","at29"]
+}
+}

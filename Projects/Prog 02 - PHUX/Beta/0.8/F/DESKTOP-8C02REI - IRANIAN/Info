@@ -1,0 +1,13 @@
+SI:
+uname_result(system='Windows', node='DESKTOP-8C02REI', release='10', version='10.0.18362', machine='AMD64', processor='Intel64 Family 6 Model 58 Stepping 9, GenuineIntel')
+Mac: 
+Physical Address    Transport Name                                            
+=================== ==========================================================
+00-FF-E3-4C-C4-C2   Media disconnected                                        
+AC-22-0B-CA-9F-43   Media disconnected                                        
+20-E9-17-05-8B-D9   \Device\Tcpip_{E7F1C371-1B1D-4C3C-8B11-54539D4A7A2A}      
+00-FF-6A-C6-9B-4A   Media disconnected                                        
+00-FF-F1-C7-AA-BC   Media disconnected                                        
+
+WIFI:
+{'HP-Print-33-LaserJet 1102', 'AndroidAP', 'XXX', 'd2B00UkFNSU4', 'AndroidAPDE6F', 'Ramin.RX', 'RX7', 'd2BF0U00tSjcwMEY'}

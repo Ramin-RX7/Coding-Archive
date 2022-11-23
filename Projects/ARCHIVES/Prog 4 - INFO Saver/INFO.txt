@@ -1,0 +1,19 @@
+0.1:
+	1- IP: A-Live IP    B-IP Validator
+	2- Mac address
+	3- Date_n_Time: A-Live Time(System)    B-Days passed from a date
+	4- PROTON VPN Download Link
+0.2:
+	1- Save Live IP, IP Validator List, Mac Address
+	2- Programs Download List
+0.3:
+	1- Clear Data
+	2- X VPN, Psiphon & Windscribe Download link
+0.4:
+	1- Add Multi Device type for installation.
+	2- Login Times
+0.5:
+	1- Download Times
+	2- Sync 1 Device file with Multi one
+
+	

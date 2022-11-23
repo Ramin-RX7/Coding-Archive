@@ -1,0 +1,17 @@
+1.0:
+	X- BETA FEATURES.
+	1- Updating LOGIN Page.
+1.1:
+	2- Hide PHOTOS by CONVERTING.
+	3- Hide VIDEOS by CONVERTING.
+1.3:
+	4- CONVERTING files (Only 3 Files).
+	5- Make files hidden by CONVERTING.
+1.5:
+	6- Make codes realy shorten.
+	7- Updating Dashboard Choices.
+1.6:
+	8- Send Password to email if choose Forgot Password.
+	9- Add Two-Step Verification.
+1.7:
+       10- Add GUI to SAVED TEXTS and NUMBERS.

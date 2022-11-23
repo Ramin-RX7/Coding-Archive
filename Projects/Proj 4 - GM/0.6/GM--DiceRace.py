@@ -1,0 +1,212 @@
+import time
+from random import randrange
+from Ac_Info import *
+import ZZSave
+
+
+############################################################################
+############################################################################
+############################################################################
+def cache(res):
+    op_cch= open('.\\ZZDRcach.py',mode='w')
+    op_cch.write('Result= \''  + str(res) + '\'' +
+                 '\nBet= '     + str(Bet)  + 
+                 '\nUsrRoll= '   + str(player_scope)  +
+                 '\nBotRoll= ' + str(comp_scope)    
+                 )
+    op_cch.close()
+############################################################################
+def WinF():
+    op_inf= open('.\\Ac_Info.py',mode='w')
+    op_inf.write('Nickname= \''    + Nickname + '\'\n'   +
+                 'Credit= '         + str(Credit+Bet) +
+                 '\nCrash_Wins= '   + str(Crash_Wins)   + '\nCrash_Loses= ' + str(Crash_Loses) +
+                 '\nBJ_Wins= '      + str(BJ_Wins)        + '\nBJ_Loses= '    + str(BJ_Loses+1)    +
+                 '\nRPS_Wins= '      + str(RPS_Wins)        + '\nRPS_Loses= '    + str(RPS_Loses)  +
+                 '\nRatioX_Wins= '  + str(RatioX_Wins)    + '\nRatioX_Loses= '+ str(RatioX_Loses) +
+                 '\nDR_Wins= '  + str(DR_Wins+1)    + '\nDR_Loses= '+ str(DR_Loses)
+                 )
+    op_inf.close()
+    cache('Win')
+    time.sleep(1)
+    ZZSave.SDRWin()
+
+def LooseF():
+    op_inf= open('.\\Ac_Info.py',mode='w')
+    op_inf.write('Nickname= \''    + Nickname + '\'\n'   +
+                 'Credit= '         + str(Credit-Bet) +
+                 '\nCrash_Wins= '   + str(Crash_Wins)   + '\nCrash_Loses= ' + str(Crash_Loses) +
+                 '\nBJ_Wins= '      + str(BJ_Wins)        + '\nBJ_Loses= '    + str(BJ_Loses+1)    +
+                 '\nRPS_Wins= '      + str(RPS_Wins)        + '\nRPS_Loses= '    + str(RPS_Loses)  +
+                 '\nRatioX_Wins= '  + str(RatioX_Wins)    + '\nRatioX_Loses= '+ str(RatioX_Loses) +
+                 '\nDR_Wins= '  + str(DR_Wins)    + '\nDR_Loses= '+ str(DR_Loses+1)
+                 )
+    op_inf.close()
+    cache('Loose')
+    time.sleep(1)
+    ZZSave.SDRLoose()
+############################################################################
+############################################################################
+############################################################################
+def Game():
+    global player_scope
+    global comp_scope
+    #----------Function print_dice----------------------------
+    def print_dice(dice_one, dice_two):
+        #---------Lists for the formation of the dice----------
+        d1 = ['422222224',
+            '300000003',
+            '300010003',
+            '300000003',
+            '422222224']
+
+        d2 = ['422222224',
+            '301000003',
+            '300000003',
+            '300000103',
+            '422222224']
+        
+        d3 = ['422222224',
+            '300000103',
+            '300010003',
+            '301000003',
+            '422222224']
+            
+        d4 = ['422222224',
+            '301000103',
+            '300000003',
+            '301000103',
+            '422222224']
+            
+        d5 = ['422222224',
+            '301000103',
+            '300010003',
+            '301000103',
+            '422222224']      
+        
+        d6 = ['422222224',
+            '301000103',
+            '301000103',
+            '301000103',
+            '422222224']
+            
+        dice = [d1, d2, d3, d4, d5, d6]
+        #--END----Lists for the formation of the dice------
+        
+        
+        d1 = dice[dice_one-1]
+        d2 = dice[dice_two-1]
+        res_dice = []
+        
+        #-----------combine dice--------
+        for i in range(0,5):
+            res_dice.append(d1[i]+d2[i])
+            i += 1
+        #---END-----combine dice-------    
+        
+        #----------Print two dice------
+        i = 0      
+        res = ''      
+        for ls in res_dice:
+            for t in ls:
+                if i == len(ls)/2: res += '   '
+                if t =='2':
+                    res += '-'
+                elif t == '3':
+                    res += '|'
+                elif t == '4':
+                    res += '+'
+                elif t == '1':
+                    res += 'O'
+                else:
+                    res += ' '
+                i += 1    
+            print(res)
+            res = ''
+            i = 0
+        #---END----Print two dice------
+    #--END-----Function print_dice------------------
+
+    #------Your roll two dice, and their sum--------
+    player_dice_one = randrange(1,6)               
+    player_dice_two = randrange(1,6)
+    player_scope = player_dice_one + player_dice_two 
+
+
+    #------Your roll two dice, and their sum--------
+    comp_dice_one = randrange(1,6)
+    comp_dice_two = randrange(1,6)
+    comp_scope = comp_dice_one + comp_dice_two 
+    #---------Print result--------------------------
+    print('\n......Your roll......')    
+    print_dice(player_dice_one, player_dice_two)
+    time.sleep(3)
+    print('\n......Bot  roll......')
+    print_dice(comp_dice_one, comp_dice_two)
+    #---------Determine the winner------------------
+    time.sleep(2)
+    print('')
+    if player_scope > comp_scope:
+        print('-------You Win-------')
+        print(u'\u0020'*7+str(player_scope)+' Vs '+str(comp_scope))
+        print('\nYou won ' + str(Bet))
+        WinF()
+    elif player_scope < comp_scope:
+        print('------You Lose-------')
+        print(u'\u0020'*7+str(player_scope)+' Vs '+str(comp_scope))
+        print('\nYou Lose ' + str(Bet))
+        LooseF()
+    else:
+        print('--------Draw---------')
+        print(u'\u0020'*7+str(player_scope)+' Vs '+str(comp_scope))
+    time.sleep(1)
+    PlyAgn()
+    #---END---Determine the winner------------------
+
+############################################################
+############################################################
+def PlyAgn():
+    PAYN= input('Do you want to play again? (Y/N)  ')
+    if PAYN.lower() == 'n' or PAYN.lower() == 'no':
+        print('OK, Closing the app...')
+        time.sleep(1)
+        quit()
+    else:
+        #import os
+        #os.system('cls')
+        import subprocess
+        subprocess.Popen('.\\GMsLOG\\GM--DiceRace.bat')
+        quit()
+
+
+
+def BetC():
+    if Credit == 0:
+        print('You don\'t have enough credit for playing (0$). \nPlease Charge your account.')
+        time.sleep(4)
+        quit()
+    else:
+        global Bet
+        Bet=0
+        print('Your credit is:' + str(Credit))
+        Bet= input('Type your bet: ')
+        try:
+            Bet= int(Bet)
+            if Bet > Credit:
+                print('You don\'t have enough credit.')
+                BetC()
+            else:
+                #Start the game
+                if Bet == 0:
+                    print('It\'s not enough for playing.')
+                    BetC()
+                else:
+                    Game() 
+        except ValueError:
+            print('Invalid Number')
+            BetC()
+
+
+
+
+BetC()

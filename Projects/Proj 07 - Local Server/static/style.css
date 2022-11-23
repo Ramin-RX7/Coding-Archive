@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(39, 41, 41);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: dodgerblue;
+}
+
+table {
+    border-color: lightslategray;
+}
+
+td {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+.grey {
+    color: lightgray;
+}
+
+.center {
+    text-align: center;
+
+}
+
+
+

@@ -1,0 +1,52 @@
+0- Exit:
+	This is just for exiting open app.
+
+
+1- Print File List:
+	This switch will save all of files names in a .txt file  in: "HVF\PC NAME\List of Files\"
+
+	When you choose this, You have to type address of where you want it's files names.
+	ex: D:\Programs\KMPlayer - C:\Users\ALI\
+
+	For being easier to print file list of DRIVES, you can just type drive letter.
+	ex: c - D
+
+2- Get Device Information:
+	You do not need to do anything. Just launching it's file or choosing it's switch.
+	This switch will save SYSTEM INFO in a .txt file in: "HVF\PC NAME\System Information\"
+	  SYSTEM INFORMATION Like: System - Device name - System Main Version - System Full Version - GPU Company - System Type
+	
+	Note:
+	  "node" is "Device name"  -  "release" is "System Main version"  -  "machine" is "AMD64"  -  "processor" is "System type"
+
+3- Copy Files:
+	This switch will copy all of files of a directory except directory's sub-folders.
+	Note that you hace to a folder address, then program copy all of folder's files in: "HVF\PC NAME\Copied Files\"
+	Program accepts file address but it doesn't copy anything.
+	ex: E:\Photos\ - C:\RIP
+
+
+
+
+
+
+
+
+PRO FEATURES:
+
+
+1- Get Saved WiFi Password:
+	This switch has a few levels that you most pass:
+	  A) Launching SavedWiFi.py: It will create this file: SavedWiFi.txt
+	  B) Checking SavedWiFi.txt for SAVED WIFI NAMES. (ex: All User Profile     : Mohammad54 ('Mohammad54' is one them.)
+	  C) Type WiFi name you want to have it's PASSWORD.
+	  D) New file will be create with name WiFiINFO.txt (FINNISH)
+	  E) Now when you open this file, in the third part of it you have the Wifi Password. (Key Content    : Th$wl.win)
+	NOTE: This switch could waste your time if you don't practice it.
+
+
+2- Get System Information:
+	This switch gets system information (like Basic switch 2).
+	So you do not need to do anything. Just launching it's file or choosing it's switch.
+	It will create a file with name SystemINFO(PRO).txt and everything will be there.
+

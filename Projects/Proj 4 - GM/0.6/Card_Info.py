@@ -1,0 +1,7 @@
+CardNom= '6273811121423302'
+CardIBAN= 'IR120731521171126853417102'
+CardName= 'Ramin Javid'
+CardMonth= '08'
+CardYear= '99'
+NickName= 'RaminRX'
+Email= 'rawmin.rx@gmail.com'

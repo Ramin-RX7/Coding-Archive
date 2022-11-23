@@ -1,0 +1,5 @@
+svtxtA= 'A: NO SAVED TEXT HERE'
+svtxtB= 'B: NO SAVED TEXT HERE'
+svtxtC= 'C: NO SAVED TEXT HERE'
+svtxtD= 'D: NO SAVED TEXT HERE'
+svtxtE= 'E: NO SAVED TEXT HERE'

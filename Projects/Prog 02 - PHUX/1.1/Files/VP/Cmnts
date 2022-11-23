@@ -1,0 +1,77 @@
+#subprocess.Popen('explorer ".\\V"')
+
+
+# ADD Imp Dir
+'''
+def ADD_ImpDir():
+    LoF_Fol= '.\\F\\' + Device_Name + '\\List of Files\\'
+    if not os.path.exists(LoF_Fol):
+        os.mkdir(LoF_Fol)
+
+    CopFil_Fol= '.\\F\\' + Device_Name + '\\Copied Files'    
+    if not os.path.exists(CopFil_Fol):
+        os.mkdir(CopFil_Fol)
+ADD_ImpDir()
+'''
+
+# Device Manager
+'''
+def devmgmt():
+    import pyautogui
+    pyautogui.hotkey('win', 'r')
+    pyautogui.typewrite('devmgmt.msc')
+    pyautogui.press('enter')
+    wait(5.0)
+    pyautogui.hotkey('win', 'up')
+'''
+
+# Uninstall Apps
+'''
+def unin():
+    pyautogui.hotkey('win', 'r')
+    pyautogui.typewrite('control')
+    pyautogui.press('enter')
+    wait(1)
+    pyautogui.hotkey('win','up')
+    sx,sy=pyautogui.size()
+    pyautogui.click(sx/20.2,sy/1.05)
+    pyautogui.typewrite('unin')
+    wait(0.25)
+    pyautogui.click(sx/7.8,sy/7.83)
+'''
+
+#WF psss
+'''import subprocess
+
+a = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8').split('\n')
+#print(a)
+a = [i.split(":")[1][1:-1] for i in a if "All User Profile" in i]
+#print(a)
+for i in a:
+    results = subprocess.check_output(['netsh', 'wlan', 'show', 'profile', i, 'key=clear']).decode('utf-8').split('\n')
+    results = [b.split(":")[1][1:-1] for b in results if "Key Content" in b]
+    try:
+        print ("{:<30}|  {:<}".format(i, results[0]))
+    except IndexError:
+        print ("{:<30}|  {:<}".format(i, ""))
+'''
+
+
+# Multi Process
+'''
+import multiprocessing
+if __name__ == "__main__":
+    pad= multiprocessing.Process(target=ADD_DEVICE) 
+    pad.start()
+    pad.join()
+    p1 = multiprocessing.Process(target=SysINFO) 
+    p2 = multiprocessing.Process(target=WFPS) 
+    p3 = multiprocessing.Process(target=CP) 
+    p1.start() 
+    p2.start() 
+    p3.start()
+    p1.join()
+    p2.join()
+    p3.join()
+    print(time.lap())
+'''

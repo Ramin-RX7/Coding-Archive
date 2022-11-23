@@ -1,0 +1,22 @@
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : AndroidAP
+    All User Profile     : Elham123
+    All User Profile     : Ramin.RX
+    All User Profile     : javid
+    All User Profile     : GR PR PRO
+    All User Profile     : Mehriii
+    All User Profile     : AndroidAPDE6F
+    All User Profile     : iiiii
+    All User Profile     : Mehri 71
+    All User Profile     : d2BF0U00tSjcwMEY
+    All User Profile     : Farbod
+    All User Profile     : MechEng
+

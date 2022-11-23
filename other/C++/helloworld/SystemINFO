@@ -1,0 +1,61 @@
+
+Host Name:                 DESKTOP-8C02REI
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:   
+Product ID:                00330-80000-00000-AA314
+Original Install Date:     21/10/19, 16:08:27
+System Boot Time:          28/04/20, 12:04:57
+System Manufacturer:       System manufacturer
+System Model:              System Product Name
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3200 Mhz
+BIOS Version:              American Megatrends Inc. 1501, 31/07/13
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             fa;Persian
+Input Locale:              en-gb;English (United Kingdom)
+Time Zone:                 (UTC+03:30) Tehran
+Total Physical Memory:     16,310 MB
+Available Physical Memory: 12,303 MB
+Virtual Memory: Max Size:  18,742 MB
+Virtual Memory: Available: 14,262 MB
+Virtual Memory: In Use:    4,480 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    IRANIAN
+Logon Server:              \\DESKTOP-8C02REI
+Hotfix(s):                 8 Hotfix(s) Installed.
+                           [01]: KB4534132
+                           [02]: KB4516115
+                           [03]: KB4521863
+                           [04]: KB4528759
+                           [05]: KB4537759
+                           [06]: KB4538674
+                           [07]: KB4541338
+                           [08]: KB4551762
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Anchorfree HSS VPN Adapter
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [02]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.5
+                           [03]: Windscribe VPN
+                                 Connection Name: Ethernet 3
+                                 Status:          Media disconnected
+                           [04]: TAP-ProtonVPN Windows Adapter V9
+                                 Connection Name: Ethernet 4
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

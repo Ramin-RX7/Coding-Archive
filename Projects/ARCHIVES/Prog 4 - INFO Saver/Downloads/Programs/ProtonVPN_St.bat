@@ -1,0 +1,1 @@
+start "" "D:\Program Files\VPN Proton\ProtonVPN.exe"

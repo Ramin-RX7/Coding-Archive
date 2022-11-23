@@ -1,0 +1,20 @@
+0.1:
+	01- "FileList" file is to print list of files of a directory.
+	02- To printing list of drives just need drive name
+0.3:
+	03- Add Main file (HVU) to access all of switchs.
+	04- Add "SysINFO" file that collect System Information.
+0.4:
+	05- Device will added to files automatically when app start (Each file).
+	06- Needed folders will be added to files automatically when app start (Each file).
+0.5:
+	07- Copy all of files of a folder except sub-folders.
+	08- Ver 0.4 futures are updated
+0.6:
+	09- Add PRO folder for professional works and files with other extentions.
+	10- PRO: Add a .bat file and another python for getting saved Wi-Fi passwords (Only 1 Wi-Fi).
+0.7:
+	11- PRO: Add a .bat file to recieve system information (More information than BASIC version.).
+
+	
+

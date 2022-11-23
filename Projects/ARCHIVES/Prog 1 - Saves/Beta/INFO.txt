@@ -1,0 +1,41 @@
+0.1 :
+	1 -  USERNAME, PASSWORD & Re-Password
+	2 -  PASSWORD most be at least 8 & USERNAME at least 5 characters
+0.2 :
+	3 -  SEQURITY QUESTION: Color of eye
+	4 -  Check Email to be real (@)
+	5 -  Error for each wrong informations
+0.3 :
+	6 -  Make EMAIL lower
+	7 -  Save information in another Python file ('Info.py')
+0.4:
+	8 -  Make Login Python file ('Login.py')
+	9 -  Import information from 'Info.py' to Login file
+	10-  Use SEQURITY QUESTION (EYE COLOR) for login if forgot PASSWORD.
+0.5:
+	11-  Use both EMAIL & USERNAME to login if even forgot EYE COLOR (!)
+	12-  Make a page after logging in ('Hidden.py')
+	13-  Add a  SAVED TEXT	 page to the Main page (not editable)
+	14-  Add a SAVED NUMBERS page to the Main page (not editable)
+0.6:
+	15-  Go to Next & Previous in sub pages
+	16-  Change names of files (Add XF prefix)
+0.7:
+	17-  Add Change PASSWORD
+	18-  Add Change EMAIL
+	19-  Add Change SEQURITY ANSWER
+0.8
+	20-  SAVED TEXTs are editable.
+	21-  Add a file to save TEXTs   ('SVTXT.py')
+	22-  Add a file to save NUMBERS ('SVNOM.py')
+	23-  Make USERNAME lower.
+	24-  Back to main menu after reading or editing
+0.9
+	25- Better page to change information.
+	26- Add OPEN WEB-SITE
+
+
+
+
+
+

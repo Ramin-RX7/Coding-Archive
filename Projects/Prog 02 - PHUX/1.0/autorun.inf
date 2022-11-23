@@ -1,0 +1,5 @@
+[AutoRun]
+OPEN=PHUX.exe
+ICON=F\phux.ico
+ACTION=START
+LABEL=Phux

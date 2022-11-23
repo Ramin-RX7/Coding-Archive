@@ -1,0 +1,240 @@
+{
+    "Account": {
+        "Usernames": [
+            "RX",
+            "RX7"
+        ],
+        "Password": "dc491cdb2f66346d6d06cd76da18182c",
+        "last_active": 1632349099.269316
+    },
+    "Cryptocurrency": {
+        "Currencies": {
+            "Cardano": {
+                "Name": "Cardano",
+                "Symbol": "ADA",
+                "Transactions": [
+                    {
+                        "ID": 3,
+                        "Type": "Buy",
+                        "Amount": 13.24,
+                        "Date": "18/07/2021",
+                        "USD Amount": 16,
+                        "USD Price": 1.18,
+                        "Rial Amount": 300000,
+                        "Rial Price": 1643,
+                        "USDT": 25000
+                    },
+                    {
+                        "ID": 4,
+                        "Type": "Sell",
+                        "Amount": 8.13,
+                        "Date": "21/07/2021",
+                        "USD Amount": 2.45,
+                        "USD Price": 20.0,
+                        "Rial Amount": 67750.0,
+                        "Rial Price": 547000.0,
+                        "USDT": 27500
+                    }
+                ]
+            },
+            "Tron": {
+                "Name": "Tron",
+                "Symbol": "TRX",
+                "Transactions": [
+                    {
+                        "ID": 1,
+                        "Type": "Buy",
+                        "Amount": 183.35,
+                        "Date": "07/07/2021",
+                        "USD Amount": 12,
+                        "USD Price": 0.66,
+                        "Rial Amount": 400000,
+                        "Rial Price": 29390,
+                        "USDT": 25000
+                    }
+                ]
+            },
+            "EOS": {
+                "Name": "EOS",
+                "Symbol": "EOS",
+                "Transactions": [
+                    {
+                        "ID": 2,
+                        "Type": "Buy",
+                        "Amount": 4.95,
+                        "Date": "18/07/2021",
+                        "USD Amount": 18.25,
+                        "USD Price": 3.65,
+                        "Rial Amount": 450000,
+                        "Rial Price": 90838,
+                        "USDT": 25000
+                    }
+                ]
+            },
+            "Binance": {
+                "Name": "Binance",
+                "Symbol": "BNB",
+                "Transaction": [],
+                "Transactions": [
+                    {
+                        "ID": 5,
+                        "Type": "Buy",
+                        "Amount": 0.0021,
+                        "Date": "21/07/2021",
+                        "USD Amount": 450.0,
+                        "USD Price": 1.0,
+                        "Rial Amount": 12540000.0,
+                        "Rial Price": 30000.0,
+                        "USDT": 27500
+                    }
+                ]
+            },
+            "Litecoin": {
+                "Name": "Litecoin",
+                "Symbol": "LTC",
+                "Transactions": [
+                    {
+                        "ID": 6,
+                        "Type": "Buy",
+                        "Amount": 0.064,
+                        "Date": "08/09/2021",
+                        "USD Amount": 175.0,
+                        "USD Price": 11.5,
+                        "Rial Amount": 5160000.0,
+                        "Rial Price": 335000.0,
+                        "USDT": 28000
+                    }
+                ]
+            },
+            "XRP": {
+                "Name": "Xrp",
+                "Symbol": "XRP",
+                "Transactions": [
+                    {
+                        "ID": 7,
+                        "Type": "Buy",
+                        "Amount": 12.2,
+                        "Date": "08/09/2021",
+                        "USD Amount": 1.11,
+                        "USD Price": 13.5,
+                        "Rial Amount": 31000.0,
+                        "Rial Price": 410000.0,
+                        "USDT": 28000
+                    }
+                ]
+            },
+            "Polkadot": {
+                "Name": "Polkadot",
+                "Symbol": "DOT",
+                "Transactions": [
+                    {
+                        "ID": 8,
+                        "Type": "Buy",
+                        "Amount": 0.51,
+                        "Date": "19/09/2021",
+                        "USD Amount": 18.0,
+                        "USD Price": 34.5,
+                        "Rial Amount": 500000,
+                        "Rial Price": 960000,
+                        "USDT": 27000
+                    }
+                ]
+            },
+            "Cosmos": {
+                "Name": "Cosmos",
+                "Symbol": "ATOM",
+                "Transactions": [
+                    {
+                        "ID": 9,
+                        "Type": "Buy",
+                        "Amount": 0.5,
+                        "Date": "21/09/2021",
+                        "USD Amount": 16.5,
+                        "USD Price": 32.5,
+                        "Rial Amount": 500000,
+                        "Rial Price": 930000,
+                        "USDT": 27000
+                    }
+                ]
+            }
+        },
+        "Transactions": [
+            [
+                1,
+                "TRX",
+                "Buy",
+                "07/07/2021",
+                183.35,
+                300000
+            ],
+            [
+                2,
+                "EOS",
+                "Buy",
+                "18/07/2021",
+                4.95,
+                400000
+            ],
+            [
+                3,
+                "ADA",
+                "Buy",
+                "18/07/2021",
+                13.24,
+                400000
+            ],
+            [
+                4,
+                "ADA",
+                "Sell",
+                "21/07/2021",
+                8.13,
+                547000.0
+            ],
+            [
+                5,
+                "BNB",
+                "Buy",
+                "21/07/2021",
+                0.0021,
+                30000.0
+            ],
+            [
+                6,
+                "LTC",
+                "Buy",
+                "08/09/2021",
+                0.064,
+                335000.0
+            ],
+            [
+                7,
+                "XRP",
+                "Buy",
+                "08/09/2021",
+                12.2,
+                410000.0
+            ],
+            [
+                8,
+                "DOT",
+                "Buy",
+                "19/09/2021",
+                0.51,
+                500000.0
+            ],
+            [
+                9,
+                "ATOM",
+                "Buy",
+                "21/09/2021",
+                0.5,
+                500000.0
+            ]
+        ],
+        "Dollar_Price": [
+            "15/09/2021",
+            27381
+        ]
+    }
+}

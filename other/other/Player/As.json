@@ -1,0 +1,96 @@
+{
+    "Elsa Jean": {
+        "Elsa Jean (2)": false,
+        "Elsa Jean (3)": false,
+        "Elsa Jean (4)": false
+    },
+    "Emily Willis": {
+        "Emily Willis (1)": false,
+        "Emily Willis (2)": true,
+        "Emily Willis (3)": false,
+        "Emily Willis (4)": true,
+        "Emily Willis (5)": false
+    },
+    "Haley Reed": {
+        "Haley Reed (1)": false,
+        "Haley Reed (2)": false,
+        "Haley Reed (3)": false,
+        "Haley Reed (4)": false,
+        "Haley Reed (5)": false,
+        "Haley Reed (6)": false,
+        "Haley Reed (7)": false,
+        "Haley Reed (8)": false
+    },
+    "Jada Stevens": {
+        "Jada Stevens (1)": true,
+        "Jada Stevens (2)": true,
+        "Jada Stevens (3)": true,
+        "Jada Stevens (4)": false,
+        "Jada Stevens (5)": false,
+        "Jada Stevens (6)": false,
+        "Jada Stevens (7)": false,
+        "Jada Stevens (8)": false,
+        "Jada Stevens (9)": false,
+        "Jada Stevens (10)": false
+    },
+    "Lana Rhoads": {
+        "Lana Rhoads (1)": false,
+        "Lana Rhoads (2)": false,
+        "Lana Rhoads (3)": false,
+        "Lana Rhoads (4)": false,
+        "Lana Rhoads (5)": false,
+        "Lana Rhoads (6)": false,
+        "Lana Rhoads (7)": false,
+        "Lana Rhoads (8)": true,
+        "Lana Rhoads (9)": false,
+        "Lana Rhoads (10)": false,
+        "Lana Rhoads (11)": false,
+        "Lana Rhoads (12)": false,
+        "Lana Rhoads (13)": true,
+        "Lana Rhoads (14)": false,
+        "Lana Rhoads (15)": false,
+        "Lana Rhoads (16)": false
+    },
+    "Nicole Aniston": {
+        "Nicole Aniston (1)": false
+    },
+    "Kyler Quinn": {
+        "Kyler Quinn (1)": false,
+        "Kyler Quinn (2)": false,
+        "Kyler Quinn (3)": false
+    },
+    "Mia Malkova": {
+        "Mia Malkova (1)": false,
+        "Mia Malkova (2)": false,
+        "Mia Malkova (3)": false
+    },
+    "Customs": {
+        "Custom (1)" : true,
+        "Custom (2)" : true,
+        "Custom (3)" : false,
+        "Custom (4)" : false,
+        "Custom (5)" : false,
+        "Custom (6)" : false,
+        "Custom (7)" : false,
+        "Custom (8)" : false,
+        "Custom (9)" : false,
+        "Custom (10)": false,
+        "Custom (11)": false,
+        "Custom (12)": false,
+        "Custom (13)": false,
+        "Custom (14)": false,
+        "Custom (15)": false,
+        "Custom (16)": false,
+        "Custom (17)": false,
+        "Custom (18)": false,
+        "Custom (19)": false,
+        "Custom (20)": false
+    },
+    "X": {
+        "X (1)": false,
+        "X (2)": false,
+        "X (3)": false,
+        "X (4)": false,
+        "X (5)": false
+    }
+}
