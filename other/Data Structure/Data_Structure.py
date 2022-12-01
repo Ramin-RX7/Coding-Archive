@@ -146,15 +146,16 @@ Groups = {
 
 t = rx.record()
 TIMES = []
+"""
 lst = list(range(100_000_000))
 print(t.lap())
 BinarySearch(lst,-1)
 print(t.last_lap())
-exit()
-for n in Groups["Binary"]:
+exit()"""
+for n in Groups["Bubble"][:10]:
     lst = list(range(n))
     t = rx.record()
-    BinarySearch(lst,-1)
+    bubble_sort(lst)
     # TIMES.append(t.last_lap())
     print(t.lap())
 # BinarySearch(make_random_list(500_000),-1)    

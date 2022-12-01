@@ -1,0 +1,14 @@
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.csproj.AssemblyReference.cache
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.AssemblyInfoInputs.cache
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.AssemblyInfo.cs
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.csproj.CoreCompileInputs.cache
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\bin\Debug\netcoreapp3.1\Tutor.exe
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\bin\Debug\netcoreapp3.1\Tutor.deps.json
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\bin\Debug\netcoreapp3.1\Tutor.runtimeconfig.json
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\bin\Debug\netcoreapp3.1\Tutor.runtimeconfig.dev.json
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\bin\Debug\netcoreapp3.1\Tutor.dll
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\bin\Debug\netcoreapp3.1\Tutor.pdb
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.dll
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.pdb
+D:\Coding\Coding-Archive\other\C#\Tutor\Tutor\obj\Debug\netcoreapp3.1\Tutor.genruntimeconfig.cache

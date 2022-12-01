@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UZDa8oLOZtZyM1B128JbLXvEKftXP4W/m+pSi6Mrnv7hme7J5qIRSecFwYqAv7eYatAzc8NDRl2TX3FASXaIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Coding-Archive\\other\\C#\\Tutor\\Tutor\\Tutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iranian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
