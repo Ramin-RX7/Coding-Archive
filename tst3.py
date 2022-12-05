@@ -9,6 +9,65 @@ import rx7 as rx
 
 
 
+# print(fibunacci.misses)
+
+
+
+
+
+
+
+
+
+
+
+
+import typer
+
+app = typer.Typer()
+
+
+@app.command()
+def hello(name: str):
+    print(f"Hello {name}")
+
+
+@app.command()
+def goodbye(name: str, formal: bool = False):
+    if formal:
+        print(f"Goodbye Ms. {name}. Have a good day.")
+    else:
+        print(f"Bye {name}!")
+
+
+if __name__ == "__main__":
+    app()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -159,10 +218,48 @@ ca.tehvp.xyz:800
 
 
 
+
+
+# 3.11
+"""
+Tomllib in stdlib
+
+except TypeError as e:
+    e.add_note("my note")
+    raise
+
+Tracebacks: exact error part of code
+LiteralString
+Self type
+Improved Performance
+"""
+
+
+# simple cache decorator
+"""
+class cache:
+    def __init__(self, func):
+        self.func = func
+        self.cache = {}
+    def __call__(self, *args):
+        if not (args in self.cache):
+            self.cache[args] = self.func(*args)
+        return self.cache[args]
+#or
+db = {}
+def cache(func):
+    db[func.__qualname__] = {}
+    def wrapper(*args, **kwargs):
+        if not (f"{args},{kwargs}" in db[func.__qualname__]):
+            db[func.__qualname__][f"{args},{kwargs}"] = func(*args, **kwargs)
+        return db[func.__qualname__][f"{args},{kwargs}"]
+    return wrapper
+"""
+
 # Sort Dict by value
 '''
 xs = {'a': 4, 'b': 3, 'c': 2, 'd': 1}
-sorted(xs.items(), key=lambda x: x[1])
+{k: v for k, v in sorted(xs.items(), key=lambda item: item[1])}
 '''
 
 # Different ways to test multiple flags at once in Python
@@ -259,7 +356,7 @@ with Decoder('https://youtu.be/tk6SmFWrPME') as decoder:
 """
 from Google import Create_Service
 
-CLIENT_SECRET_FILE = "XXX"
+CLIENT_SECRET_FILE = "client_secret_426124061761-5f3kq5vo7eb3ihogmocfpd6cipj3cf12.apps.googleusercontent.com.json"
 API_NAME =  "drive"
 API_VERSION = "v3"
 SCOPES = ['https://www.googleapis.com/auth/drive']
