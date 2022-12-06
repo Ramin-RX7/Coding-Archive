@@ -149,7 +149,7 @@
     "code-runner.runInTerminal": true,
     "explorer.compactFolders": false,
     "editor.tabCompletion": "on",
-    "python.linting.mypyEnabled": true,
+    "python.linting.mypyEnabled": true
 
 
 
