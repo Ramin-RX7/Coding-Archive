@@ -1,8 +1,21 @@
+# VS CODE
 .vscode/
 .vs/
+
+# PYTHON
 .mypy_cache/
 __pycache__/
+
+# RUST
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+
 # .ARCHIVES/
 # .gradle/
 # /MCW*/
 # /other/other
+
